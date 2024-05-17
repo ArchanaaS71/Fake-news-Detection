@@ -74,4 +74,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Feel free to contribute to this project by submitting issues or pull requests. For any questions or feedback, please contact [17archanaas.@gmail.com].
+Feel free to contribute to this project by submitting issues or pull requests. For any questions or feedback, please contact 17archanaas.@gmail.com .
