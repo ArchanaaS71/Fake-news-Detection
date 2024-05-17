@@ -11,8 +11,7 @@ The dataset used in this project includes:
 - `fake.csv`: Contains 23,481 fake news articles.
 
 ## Models
-
-We explore the efficacy of various deep learning architectures to distinguish between real and fake news articles, including:
+Explored the efficacy of various deep learning architectures to distinguish between real and fake news articles, including:
 - Long Short-Term Memory (LSTM)
 - Convolutional Neural Network (CNN)
 - Bidirectional LSTM
@@ -22,11 +21,11 @@ We explore the efficacy of various deep learning architectures to distinguish be
 
 ## Performance
 
-Our experimental results demonstrate promising performance across the models, with accuracy metrics ranging from 0.76 to 0.97. Notably, the LSTM, Bidirectional LSTM, COBRA, and GRU models exhibit particularly high accuracy scores of 0.97 each, showcasing their effectiveness in discriminating between genuine and fabricated news articles.
+The experimental results demonstrate promising performance across the models, with accuracy metrics ranging from 0.76 to 0.97. Notably, the LSTM, Bidirectional LSTM, COBRA, and GRU models exhibit particularly high accuracy scores of 0.97 each, showcasing their effectiveness in discriminating between genuine and fabricated news articles.
 
 ## Contributions
 
-Through this comparative analysis, we provide insights into the strengths and limitations of different machine learning approaches for fake news detection. Our findings contribute to the ongoing efforts in developing robust tools for combating misinformation and safeguarding the integrity of online information ecosystems.
+Through this comparative analysis, the model provide insights into the strengths and limitations of different machine learning approaches for fake news detection. These findings contribute to the ongoing efforts in developing robust tools for combating misinformation and safeguarding the integrity of online information ecosystems.
 
 ## Usage
 
